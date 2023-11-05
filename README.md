@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Diego Enrique Palmar Montiel**
 
-- GitHub: [@TheDarkGamerFox](https://github.com/TheDarkGamerFox)
+- GitHub: [@DevDpalmar](https://github.com/DevDPalmar)
 - Twitter: [@DPalmar2004](https://twitter.com/DPalmar2004)
 
 ## 🤝 Contributing
